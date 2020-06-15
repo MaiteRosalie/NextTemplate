@@ -13,22 +13,22 @@ const Wrapper = styled(Box)`
 const socialLinks = [
   {
     icon: <FaInstagram />,
-    href: 'https://www.instagram.com/gldfunding/',
+    href: 'https://www.instagram.com',
     name: 'instagram',
   },
   {
     icon: <FaFacebookF />,
-    href: 'https://www.facebook.com/GLD-Funding-102567247876620/',
+    href: 'https://www.facebook.com',
     name: 'facebook',
   },
   {
     icon: <FaTwitter />,
-    href: '#',
+    href: 'https://twitter.com/',
     name: 'twitter',
   },
   {
     icon: <FaYoutube />,
-    href: '#',
+    href: 'https://www.youtube.com/',
     name: 'youtube',
   },
 ];

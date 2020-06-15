@@ -28,11 +28,6 @@ const Icon = styled(Box)<{ theme: themeProptypes }>`
   cursor: pointer;
 
   ${({ theme }) => `
-  background: linear-gradient(
-    to left,
-    ${theme.colors.blue200} 0%,
-    ${theme.colors.green500} 100%
-  );
   color: ${theme.colors.blue500};
 `}
 
@@ -41,30 +36,43 @@ const Icon = styled(Box)<{ theme: themeProptypes }>`
     transition: opacity 300ms;
     stroke: CurrentColor;
     fill: none;
-    stroke-width: 0.52917;
+    stroke-width: 0.5;
     stroke-linecap: round;
     stroke-linejoin: round;
     paint-order: markers fill stroke;
     z-index: 4;
     stroke-dashoffset: 0px;
-    opacity: 0.5;
   }
-
+  &:hover:before {
+    opacity: 0.7;
+  }
+  &:hover {
+    ${({ theme }) => `
+    color: white;
+  `}
+  }
   &:hover svg {
-    opacity: 1;
     animation: ${dash} 450ms linear 0s 1 alternate;
   }
 
   &:before {
     content: '';
+    opacity: 0;
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background: white;
-    width: calc(100% - 4px);
-    height: calc(100% - 4px);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
     border-radius: 50%;
+    transition: opacity 450ms;
+    ${({ theme }) => `
+    background: linear-gradient(
+      45deg,
+      ${theme.colors.blue200} 0%,
+      ${theme.colors.green500} 100%
+    );
+    color: ${theme.colors.gray200};
+  `}
   }
 `;
 
@@ -75,25 +83,23 @@ const svgProps = {
 };
 const content = [
   {
-    title: 'QUICK APROVAL & COMPETITIVE RATES',
-    description: `Get pre-approved in just 2-4 hours.
-    Best available rates in the industry.`,
+    title: 'Time Icon',
+    description: 'Praesent accumsan consectetur eros. Pellentesque non.',
     icon: <IconTimer {...svgProps} />,
   },
   {
-    title: 'FLEXIBLE REPAYMENT PLANS',
-    description: `Repayments designed appropriately to fit your business needs.`,
+    title: 'Money Icon',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
     icon: <IconMoney {...svgProps} />,
   },
   {
-    title: 'NO CREDIT SCORE REQUIRED',
-    description: `We do not rely on credit score. Instead, we utilize banking information to understand and analyze the
-    overall fluctuation of your business.`,
+    title: 'Credit Card Icon',
+    description: 'Pellentesque nec cursus metus. Nunc quis urna sapien',
     icon: <IconCard {...svgProps} />,
   },
   {
-    title: 'MINIMAL PAPEWORK',
-    description: 'Unlike a traditional bank loan, we do not require any complicated documents.',
+    title: 'Document Icon',
+    description: 'Morbi vestibulum aliquam blandit. Donec faucibus tellus quis erat.',
     icon: <IconPaper {...svgProps} />,
   },
 ];
@@ -111,12 +117,12 @@ export const Features = withTheme(({ theme, ...etc }, { theme: themeProptypes })
   return (
     <VisibilitySensor onChange={onView} active={sense} partialVisibility minTopValue={150}>
       <Box as="section" {...etc}>
-        <Flex flexWrap="wrap" m="auto" maxWidth="1400px" py={2}>
+        <Flex flexWrap="wrap" m="auto" className="container" py={[5, '5rem']}>
           {content.map((el, i) => (
             <Box key={el.title} width={[1 / 2, 1 / 4]} p={2}>
               <Icon
-                width={['70px', '70px', '150px']}
-                height={['70px', '70px', '150px']}
+                width={['70px', '70px', '125px']}
+                height={['70px', '70px', '125px']}
                 bg="white"
                 mb={4}
                 mx="auto"

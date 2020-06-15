@@ -11,24 +11,20 @@ export const steps: Array<stepProps> = [
     title: 'Contact information',
     fields: [
       {
-        label: 'Name*',
-        placeholder: 'Eg. John Smith ',
+        label: 'Name',
         name: 'name',
       },
       {
         label: 'Business Name*',
-        placeholder: 'Eg. GLD Funding',
         name: 'businessName',
       },
       {
-        label: 'Email*',
-        placeholder: 'Eg. joahsmith@gmail.com',
+        label: 'Email',
         name: 'email',
         type: 'email',
       },
       {
-        label: 'Mobile No.*',
-        placeholder: '(123) 456-7890',
+        label: 'Mobile No.',
         name: 'phone',
         tag: 'masked',
         mask: phoneMask,
@@ -64,7 +60,6 @@ export const steps: Array<stepProps> = [
     fields: [
       {
         label: 'Requested Amount*',
-        placeholder: 'Eg. 35,000',
         tag: 'masked',
         inputMode: 'numeric',
         name: 'amount',
@@ -72,14 +67,13 @@ export const steps: Array<stepProps> = [
       },
       {
         label: 'Monthly Revenue*',
-        placeholder: 'Eg. 45,000',
         tag: 'masked',
         inputMode: 'numeric',
         name: 'revenue',
         mask: currencyMask(),
       },
       {
-        label: 'Purpose*',
+        label: 'Purpose',
         name: 'purpose',
         tag: 'select',
         value: '',
@@ -103,11 +97,10 @@ export const steps: Array<stepProps> = [
       },
       {
         label: 'Time in business*',
-        placeholder: 'Eg. 1 year',
         name: 'time',
       },
       {
-        label: 'Category*',
+        label: 'Category',
         name: 'category',
         tag: 'select',
         value: '',
@@ -144,12 +137,11 @@ export const steps: Array<stepProps> = [
     title: 'Business Information',
     fields: [
       {
-        label: 'Address*',
-        placeholder: 'Eg. 123 Main Street, New York, NY 10030',
+        label: 'Address',
         name: 'address',
       },
       {
-        label: 'State*',
+        label: 'State',
         name: 'state',
         tag: 'select',
         value: '',
@@ -213,13 +205,11 @@ export const steps: Array<stepProps> = [
         ],
       },
       {
-        label: 'City*',
-        placeholder: 'Eg. Boston',
+        label: 'City',
         name: 'city',
       },
       {
-        label: 'ZIP code*',
-        placeholder: 'Eg.  12345-6789',
+        label: 'ZIP code',
         tag: 'masked',
         inputMode: 'numeric',
         name: 'zip',

@@ -34,7 +34,7 @@ export const CTA = () => {
   return (
     <VisibilitySensor onChange={onView} active={sense} partialVisibility minTopValue={100}>
       <Wrapper as="section">
-        <Background src="./images/footer-image.jpg" alt="mountains background" />
+        <Background src="./images/footer-image.png" alt="mountains background" />
         <Flex
           flexWrap="wrap"
           m="auto"
@@ -92,7 +92,7 @@ export const CTA = () => {
             >
               Do you have a question? <br />
               <a href="tel:1(877)498-4344" style={{ textDecoration: 'none' }}>
-                1 (877) 498-4344
+                +1 202 555 0164
               </a>
             </Text>
           </Box>

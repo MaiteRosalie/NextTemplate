@@ -10,9 +10,9 @@ export default class AppDocument extends Document {
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <meta name="msapplication-tap-highlight" content="no" />
           <meta name="mobile-web-app-capable" content="yes" />
-          <meta name="application-name" content="GLD Funding" />
+          <meta name="application-name" content="Next Template" />
           <meta name="apple-mobile-web-app-capable" content="yes" />
-          <meta name="apple-mobile-web-app-title" content="GLD Funding" />
+          <meta name="apple-mobile-web-app-title" content="Next Template" />
           <meta name="HandheldFriendly" content="True" />
           <meta name="msapplication-TileImage" content="./images/app-icons/icon-152.png" />
           <link rel="icon" type="image/png" href="./images/favicon.png" />

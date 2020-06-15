@@ -7,20 +7,18 @@ import { Layout, PageTitle, Card } from '../components';
 const features = [
   {
     icon: <AiOutlineExperiment />,
-    title: 'NO ROCKET SCIENCE',
-    description: 'minimal paperwork, no collateral, and no credit rating score.',
+    title: 'Science Icon',
+    description: 'Duis aliquet arcu dignissim arcu volutpat tincidunt. ',
   },
   {
     icon: <AiOutlineCrown />,
-    title: 'PERSONALIZED SOLUTIONS',
-    description:
-      'We build personal relationships with our clients to be able to provide the financial tools needed.',
+    title: 'Excellence Icon',
+    description: 'Maecenas at consequat diam. Proin est ipsum, luctus id dolo.',
   },
   {
     icon: <AiOutlineSmile />,
-    title: 'BETTER SERVICE',
-    description:
-      'We are here to assist you in every step of the way to get the working capital you deserve.',
+    title: 'Service Icon',
+    description: 'Duis non lobortis erat. Nulla at nibh nunc. Praesent urna nunc.',
   },
 ];
 export const About = () => {
@@ -62,8 +60,32 @@ export const About = () => {
               mx="auto"
               width={1}
             >
-              We provide funding solutions that are easier, faster, smarter and better.
+              We provide solutions that are easier, faster, smarter and better.
             </Text>
+          </Flex>
+
+          <Flex flexWrap="wrap" width={1} my={4}>
+            <Flex width={[1, 1, 1 / 2]} flexWrap="wrap" p={2}>
+              <Text as="p" fontSize={2} lineHeight="heading">
+                Vivamus pretium tellus in nulla rutrum pulvinar. Donec dapibus, nisl sed finibus
+                dapibus, mi justo gravida est, nec semper ante metus sit amet urna. Cras nec
+                consequat orci. Proin blandit lorem pulvinar odio suscipit, eget rutrum ligula
+                sagittis. Aenean malesuada lacus et aliquet lacinia. Praesent bibendum nec quam id
+                mollis. Vestibulum accumsan dolor eu libero auctor hendrerit. Aenean luctus
+                pellentesque eleifend.
+              </Text>
+            </Flex>
+            <Flex width={[1, 1, 1 / 2]} flexWrap="wrap" p={2}>
+              <Text as="p" fontSize={2} lineHeight="heading">
+                Mauris lobortis vel sem sed pretium. Sed nec lobortis diam, vel porttitor felis.
+                Aenean augue sem, porta sed neque vitae, luctus suscipit lectus. Mauris porttitor
+                velit lorem, ut volutpat velit pulvinar ut. In a ex eu eros semper luctus ut sed
+                tellus. Phasellus lacinia dolor ac dictum faucibus,{' '}
+                <Box as="strong" color="gray500">
+                  in faucibus ex efficitur quis.
+                </Box>
+              </Text>
+            </Flex>
           </Flex>
           <Flex flexWrap="wrap" width={1} my={4}>
             {features.map((el, i) => (
@@ -99,25 +121,6 @@ export const About = () => {
                 </Text>
               </Box>
             ))}
-          </Flex>
-          <Flex flexWrap="wrap" width={1} my={4}>
-            <Flex width={[1, 1, 1 / 2]} flexWrap="wrap" p={2}>
-              <Text as="p" fontSize={2} lineHeight="heading">
-                Over the past 20 years we have seen the banks tighten their criteria on lending,
-                making it difficult for business owners to get the working capital they need to
-                continue to serve their communities and customers worldwide. Therefore, GLD Funding
-                decided to offer customized funding programs that best suit the client’s needs.
-              </Text>
-            </Flex>
-            <Flex width={[1, 1, 1 / 2]} flexWrap="wrap" p={2}>
-              <Text as="p" fontSize={2} lineHeight="heading">
-                We take pride in building personable relationships with our clients, so we insure
-                that we provide the financial tools needed to grow your business, with{' '}
-                <Box as="strong" color="gray500">
-                  funding options within a couple of hours.
-                </Box>
-              </Text>
-            </Flex>
           </Flex>
         </Card>
       </Box>

@@ -60,8 +60,8 @@ export const Layout = withTheme(
             <TopBar px={3} pt={2} maxWidth="1700px" m="auto" open={open} theme={theme}>
               <Link href="./" local css={{ opacity: 1 }}>
                 <Image
-                  src="./images/logo-white.svg"
-                  alt="GLD Funding logo"
+                  src="./images/logo-light.svg"
+                  alt=" logo"
                   maxWidth="100px"
                   alignSelf="flex-start"
                   sx={{

@@ -6,7 +6,7 @@ import { IoIosClose } from 'react-icons/io';
 
 import { Button, Link } from './';
 import { themeProptypes } from '../theme';
-import { mainLinks, loginLink, callLink } from '../constants';
+import { mainLinks, loginLink } from '../constants';
 
 const Nav = styled(Flex)<{ theme: themeProptypes; open: boolean }>`
   opacity: 1;
@@ -95,7 +95,7 @@ export const Navigation = withTheme(({ theme, open = false, toggle }: Navigation
         pt={['100px', '25vh', '25vh', '0']}
       >
         <Close as={IoIosClose} className="show-md" onClick={hide} size={40} />
-        <Flex width={1} maxWidth="500px" justifyContent="space-between">
+        <Flex width={1} justifyContent="center">
           {mainLinks.map(el => (
             <Link href={el.href} local key={el.name} onClick={hide}>
               {el.name}
@@ -103,11 +103,10 @@ export const Navigation = withTheme(({ theme, open = false, toggle }: Navigation
           ))}
         </Flex>
         <Flex alignItems={['flex-start', 'flex-start', 'flex-start', 'center']}>
-          <Link href={callLink.href}>{callLink.name}</Link>
           <Link href={loginLink.name} className="show-md" onClick={hide}>
             {loginLink.name}
           </Link>
-          <Button rounded href={loginLink.href} ml={3} className="hide-md" onClick={hide}>
+          <Button rounded href={loginLink.href} className="hide-md" onClick={hide}>
             {loginLink.name}
           </Button>
         </Flex>

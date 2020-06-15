@@ -3,7 +3,7 @@
 exports[`render as espected Card 1`] = `
 <div>
   <div
-    class="css-1h26zrb-Wrapper ekq4b2z0"
+    class="css-1h26zrb-Wrapper e1wyqj5v0"
   >
      hi 
   </div>
@@ -13,7 +13,7 @@ exports[`render as espected Card 1`] = `
 exports[`render as espected Carousel 1`] = `
 <div>
   <div
-    class="react-multi-carousel-list   css-so8vqw-StyledCarousel e132dzpo0"
+    class="react-multi-carousel-list   css-so8vqw-StyledCarousel e12gmve30"
   >
     <ul
       class="react-multi-carousel-track "
@@ -26,7 +26,7 @@ exports[`render as espected Carousel 1`] = `
 exports[`render as espected Footer 1`] = `
 <div>
   <div
-    class="css-jnc4ax-Wrapper e18f8y720"
+    class="css-jnc4ax-Wrapper e1pp2k4y0"
   >
     <div
       class="container css-abimfy"
@@ -40,28 +40,33 @@ exports[`render as espected Footer 1`] = `
           src="./images/mcafee.png"
         />
         <a
-          class="e1w12k6d0 css-1wrsoh9-HL"
+          class="ewd5hji0 css-1wrsoh9-HL"
+        >
+          Home
+        </a>
+        <a
+          class="ewd5hji0 css-1wrsoh9-HL"
         >
           About us
         </a>
         <a
-          class="e1w12k6d0 css-1wrsoh9-HL"
+          class="ewd5hji0 css-1wrsoh9-HL"
         >
-          What is MCA?
+          How it works
         </a>
         <a
-          class="e1w12k6d0 css-1wrsoh9-HL"
+          class="ewd5hji0 css-1wrsoh9-HL"
         >
           Apply Now
         </a>
         <a
-          class="e1w12k6d0 css-1wrsoh9-HL"
+          class="ewd5hji0 css-1wrsoh9-HL"
         >
           Contact Us
         </a>
         <a
-          class="e1w12k6d0 css-1wrsoh9-HL"
-          href="https://login.gldfunding.com/"
+          class="ewd5hji0 css-1wrsoh9-HL"
+          href="/login"
         >
           Login
         </a>
@@ -69,8 +74,8 @@ exports[`render as espected Footer 1`] = `
           class="show-md css-4cffwv"
         >
           <a
-            class="e1w12k6d0 css-g5dy2v-HL"
-            href="https://www.instagram.com/gldfunding/"
+            class="ewd5hji0 css-g5dy2v-HL"
+            href="https://www.instagram.com"
           >
             <svg
               fill="currentColor"
@@ -87,8 +92,8 @@ exports[`render as espected Footer 1`] = `
             </svg>
           </a>
           <a
-            class="e1w12k6d0 css-g5dy2v-HL"
-            href="https://www.facebook.com/GLD-Funding-102567247876620/"
+            class="ewd5hji0 css-g5dy2v-HL"
+            href="https://www.facebook.com"
           >
             <svg
               fill="currentColor"
@@ -105,8 +110,8 @@ exports[`render as espected Footer 1`] = `
             </svg>
           </a>
           <a
-            class="e1w12k6d0 css-g5dy2v-HL"
-            href="#"
+            class="ewd5hji0 css-g5dy2v-HL"
+            href="https://twitter.com/"
           >
             <svg
               fill="currentColor"
@@ -123,8 +128,8 @@ exports[`render as espected Footer 1`] = `
             </svg>
           </a>
           <a
-            class="e1w12k6d0 css-g5dy2v-HL"
-            href="#"
+            class="ewd5hji0 css-g5dy2v-HL"
+            href="https://www.youtube.com/"
           >
             <svg
               fill="currentColor"
@@ -146,8 +151,8 @@ exports[`render as espected Footer 1`] = `
         class="hide-md css-u6nmhn"
       >
         <a
-          class="e1w12k6d0 css-g5dy2v-HL"
-          href="https://www.instagram.com/gldfunding/"
+          class="ewd5hji0 css-g5dy2v-HL"
+          href="https://www.instagram.com"
         >
           <svg
             fill="currentColor"
@@ -164,8 +169,8 @@ exports[`render as espected Footer 1`] = `
           </svg>
         </a>
         <a
-          class="e1w12k6d0 css-g5dy2v-HL"
-          href="https://www.facebook.com/GLD-Funding-102567247876620/"
+          class="ewd5hji0 css-g5dy2v-HL"
+          href="https://www.facebook.com"
         >
           <svg
             fill="currentColor"
@@ -182,8 +187,8 @@ exports[`render as espected Footer 1`] = `
           </svg>
         </a>
         <a
-          class="e1w12k6d0 css-g5dy2v-HL"
-          href="#"
+          class="ewd5hji0 css-g5dy2v-HL"
+          href="https://twitter.com/"
         >
           <svg
             fill="currentColor"
@@ -200,8 +205,8 @@ exports[`render as espected Footer 1`] = `
           </svg>
         </a>
         <a
-          class="e1w12k6d0 css-g5dy2v-HL"
-          href="#"
+          class="ewd5hji0 css-g5dy2v-HL"
+          href="https://www.youtube.com/"
         >
           <svg
             fill="currentColor"
@@ -226,25 +231,25 @@ exports[`render as espected Footer 1`] = `
 exports[`render as espected Layout 1`] = `
 <div>
   <div
-    class="css-f464jk-Wrapper e1txfvao1"
+    class="css-f464jk-Wrapper eb79b8b1"
   >
     <div
-      class="css-cod5ln-Translated e1txfvao2"
+      class="css-cod5ln-Translated eb79b8b2"
     >
       <div
-        class="css-8b5ig0-TopBar e1txfvao0"
+        class="css-8b5ig0-TopBar eb79b8b0"
       >
         <a
-          class="e1w12k6d0 css-2vf41u-HL-Layout"
+          class="ewd5hji0 css-2vf41u-HL-Layout"
         >
           <img
-            alt="GLD Funding logo"
+            alt=" logo"
             class="css-1efrvlf-Layout"
-            src="./images/logo-white.svg"
+            src="./images/logo-light.svg"
           />
         </a>
         <div
-          class="show-md mb-open-btn css-l6kea7-Open esgq4xm2"
+          class="show-md mb-open-btn css-l6kea7-Open e12rpztr2"
         >
           <div
             class="css-1s4dz1f"
@@ -257,10 +262,10 @@ exports[`render as espected Layout 1`] = `
           />
         </div>
         <nav
-          class="css-19mym3k-Nav esgq4xm0"
+          class="css-19mym3k-Nav e12rpztr0"
         >
           <svg
-            class="show-md css-un36pl-Close esgq4xm1"
+            class="show-md css-un36pl-Close e12rpztr1"
             fill="currentColor"
             height="1em"
             stroke="currentColor"
@@ -274,25 +279,30 @@ exports[`render as espected Layout 1`] = `
             />
           </svg>
           <div
-            class="css-1b1ax9f"
+            class="css-1hwiqm"
           >
             <a
-              class="e1w12k6d0 css-15j1a9z-HL"
+              class="ewd5hji0 css-15j1a9z-HL"
+            >
+              Home
+            </a>
+            <a
+              class="ewd5hji0 css-15j1a9z-HL"
             >
               About us
             </a>
             <a
-              class="e1w12k6d0 css-15j1a9z-HL"
+              class="ewd5hji0 css-15j1a9z-HL"
             >
-              What is MCA?
+              How it works
             </a>
             <a
-              class="e1w12k6d0 css-15j1a9z-HL"
+              class="ewd5hji0 css-15j1a9z-HL"
             >
               Apply Now
             </a>
             <a
-              class="e1w12k6d0 css-15j1a9z-HL"
+              class="ewd5hji0 css-15j1a9z-HL"
             >
               Contact Us
             </a>
@@ -301,20 +311,14 @@ exports[`render as espected Layout 1`] = `
             class="css-wx9xxs"
           >
             <a
-              class="e1w12k6d0 css-15j1a9z-HL"
-              href="tel:1(877)498-4344"
-            >
-              Call Now 1 (877) 498-4344
-            </a>
-            <a
-              class="show-md e1w12k6d0 css-15j1a9z-HL"
+              class="show-md ewd5hji0 css-15j1a9z-HL"
               href="Login"
             >
               Login
             </a>
             <a
-              class="hide-md css-bsyusq"
-              href="https://login.gldfunding.com/"
+              class="hide-md css-rme1j0"
+              href="/login"
             >
               Login
             </a>
@@ -323,7 +327,7 @@ exports[`render as espected Layout 1`] = `
       </div>
        hi 
       <div
-        class="css-jnc4ax-Wrapper e18f8y720"
+        class="css-jnc4ax-Wrapper e1pp2k4y0"
       >
         <div
           class="container css-abimfy"
@@ -337,28 +341,33 @@ exports[`render as espected Layout 1`] = `
               src="./images/mcafee.png"
             />
             <a
-              class="e1w12k6d0 css-1wrsoh9-HL"
+              class="ewd5hji0 css-1wrsoh9-HL"
+            >
+              Home
+            </a>
+            <a
+              class="ewd5hji0 css-1wrsoh9-HL"
             >
               About us
             </a>
             <a
-              class="e1w12k6d0 css-1wrsoh9-HL"
+              class="ewd5hji0 css-1wrsoh9-HL"
             >
-              What is MCA?
+              How it works
             </a>
             <a
-              class="e1w12k6d0 css-1wrsoh9-HL"
+              class="ewd5hji0 css-1wrsoh9-HL"
             >
               Apply Now
             </a>
             <a
-              class="e1w12k6d0 css-1wrsoh9-HL"
+              class="ewd5hji0 css-1wrsoh9-HL"
             >
               Contact Us
             </a>
             <a
-              class="e1w12k6d0 css-1wrsoh9-HL"
-              href="https://login.gldfunding.com/"
+              class="ewd5hji0 css-1wrsoh9-HL"
+              href="/login"
             >
               Login
             </a>
@@ -366,8 +375,8 @@ exports[`render as espected Layout 1`] = `
               class="show-md css-4cffwv"
             >
               <a
-                class="e1w12k6d0 css-g5dy2v-HL"
-                href="https://www.instagram.com/gldfunding/"
+                class="ewd5hji0 css-g5dy2v-HL"
+                href="https://www.instagram.com"
               >
                 <svg
                   fill="currentColor"
@@ -384,8 +393,8 @@ exports[`render as espected Layout 1`] = `
                 </svg>
               </a>
               <a
-                class="e1w12k6d0 css-g5dy2v-HL"
-                href="https://www.facebook.com/GLD-Funding-102567247876620/"
+                class="ewd5hji0 css-g5dy2v-HL"
+                href="https://www.facebook.com"
               >
                 <svg
                   fill="currentColor"
@@ -402,8 +411,8 @@ exports[`render as espected Layout 1`] = `
                 </svg>
               </a>
               <a
-                class="e1w12k6d0 css-g5dy2v-HL"
-                href="#"
+                class="ewd5hji0 css-g5dy2v-HL"
+                href="https://twitter.com/"
               >
                 <svg
                   fill="currentColor"
@@ -420,8 +429,8 @@ exports[`render as espected Layout 1`] = `
                 </svg>
               </a>
               <a
-                class="e1w12k6d0 css-g5dy2v-HL"
-                href="#"
+                class="ewd5hji0 css-g5dy2v-HL"
+                href="https://www.youtube.com/"
               >
                 <svg
                   fill="currentColor"
@@ -443,8 +452,8 @@ exports[`render as espected Layout 1`] = `
             class="hide-md css-u6nmhn"
           >
             <a
-              class="e1w12k6d0 css-g5dy2v-HL"
-              href="https://www.instagram.com/gldfunding/"
+              class="ewd5hji0 css-g5dy2v-HL"
+              href="https://www.instagram.com"
             >
               <svg
                 fill="currentColor"
@@ -461,8 +470,8 @@ exports[`render as espected Layout 1`] = `
               </svg>
             </a>
             <a
-              class="e1w12k6d0 css-g5dy2v-HL"
-              href="https://www.facebook.com/GLD-Funding-102567247876620/"
+              class="ewd5hji0 css-g5dy2v-HL"
+              href="https://www.facebook.com"
             >
               <svg
                 fill="currentColor"
@@ -479,8 +488,8 @@ exports[`render as espected Layout 1`] = `
               </svg>
             </a>
             <a
-              class="e1w12k6d0 css-g5dy2v-HL"
-              href="#"
+              class="ewd5hji0 css-g5dy2v-HL"
+              href="https://twitter.com/"
             >
               <svg
                 fill="currentColor"
@@ -497,8 +506,8 @@ exports[`render as espected Layout 1`] = `
               </svg>
             </a>
             <a
-              class="e1w12k6d0 css-g5dy2v-HL"
-              href="#"
+              class="ewd5hji0 css-g5dy2v-HL"
+              href="https://www.youtube.com/"
             >
               <svg
                 fill="currentColor"
@@ -527,10 +536,10 @@ exports[`render as espected Modal 1`] = `<div />`;
 exports[`render as espected PageTitle 1`] = `
 <div>
   <header
-    class="css-1lo1gn8-Wrapper e12nao7r0"
+    class="css-1lo1gn8-Wrapper earhwwx0"
   >
     <picture
-      class="css-1aqn33o-Background e12nao7r1"
+      class="css-1aqn33o-Background earhwwx1"
     >
       <source
         media="(min-width: 800px)"

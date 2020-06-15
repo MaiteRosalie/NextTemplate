@@ -1,11 +1,15 @@
+export const homeLink = {
+  href: '/',
+  name: 'Home',
+};
 export const aboutLink = {
   href: '/about',
   name: 'About us',
 };
 
 export const mcaLink = {
-  href: '/mca',
-  name: 'What is MCA?',
+  href: '/how',
+  name: 'How it works',
 };
 
 export const applyLink = {
@@ -19,13 +23,13 @@ export const contactLink = {
 };
 
 export const loginLink = {
-  href: 'https://login.gldfunding.com/',
+  href: '/login',
   name: 'Login',
 };
 
 export const callLink = {
-  href: 'tel:1(877)498-4344',
-  name: 'Call Now 1 (877) 498-4344',
+  href: 'tel:+1-202-555-0164',
+  name: 'Call Now +1 202 555 0164',
 };
 
-export const mainLinks = [aboutLink, mcaLink, applyLink, contactLink];
+export const mainLinks = [homeLink, aboutLink, mcaLink, applyLink, contactLink];

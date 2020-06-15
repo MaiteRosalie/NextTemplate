@@ -9,7 +9,7 @@ exports[`rendering renders as expected 1`] = `
     Name*
   </label>
   <input
-    class="css-1lotepu-StyledInput euq90oh0"
+    class="css-1lotepu-StyledInput e1rkkvyd0"
     name="name"
     placeholder="Name"
   />

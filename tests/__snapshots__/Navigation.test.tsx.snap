@@ -3,7 +3,7 @@
 exports[`rendering renders as expected 1`] = `
 <div>
   <div
-    class="show-md mb-open-btn css-l6kea7-Open esgq4xm2"
+    class="show-md mb-open-btn css-l6kea7-Open e12rpztr2"
   >
     <div
       class="css-1s4dz1f"
@@ -16,10 +16,10 @@ exports[`rendering renders as expected 1`] = `
     />
   </div>
   <nav
-    class="css-19mym3k-Nav esgq4xm0"
+    class="css-19mym3k-Nav e12rpztr0"
   >
     <svg
-      class="show-md css-un36pl-Close esgq4xm1"
+      class="show-md css-un36pl-Close e12rpztr1"
       fill="currentColor"
       height="1em"
       stroke="currentColor"
@@ -33,25 +33,30 @@ exports[`rendering renders as expected 1`] = `
       />
     </svg>
     <div
-      class="css-1b1ax9f"
+      class="css-1hwiqm"
     >
       <a
-        class="e1w12k6d0 css-15j1a9z-HL"
+        class="ewd5hji0 css-15j1a9z-HL"
+      >
+        Home
+      </a>
+      <a
+        class="ewd5hji0 css-15j1a9z-HL"
       >
         About us
       </a>
       <a
-        class="e1w12k6d0 css-15j1a9z-HL"
+        class="ewd5hji0 css-15j1a9z-HL"
       >
-        What is MCA?
+        How it works
       </a>
       <a
-        class="e1w12k6d0 css-15j1a9z-HL"
+        class="ewd5hji0 css-15j1a9z-HL"
       >
         Apply Now
       </a>
       <a
-        class="e1w12k6d0 css-15j1a9z-HL"
+        class="ewd5hji0 css-15j1a9z-HL"
       >
         Contact Us
       </a>
@@ -60,20 +65,14 @@ exports[`rendering renders as expected 1`] = `
       class="css-wx9xxs"
     >
       <a
-        class="e1w12k6d0 css-15j1a9z-HL"
-        href="tel:1(877)498-4344"
-      >
-        Call Now 1 (877) 498-4344
-      </a>
-      <a
-        class="show-md e1w12k6d0 css-15j1a9z-HL"
+        class="show-md ewd5hji0 css-15j1a9z-HL"
         href="Login"
       >
         Login
       </a>
       <a
-        class="hide-md css-bsyusq"
-        href="https://login.gldfunding.com/"
+        class="hide-md css-rme1j0"
+        href="/login"
       >
         Login
       </a>

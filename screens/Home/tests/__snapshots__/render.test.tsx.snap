@@ -3,12 +3,12 @@
 exports[`render as espected CTA 1`] = `
 <div>
   <section
-    class="e110hyro0 css-1ep92rf-Wrapper"
+    class="ehg56va0 css-1ep92rf-Wrapper"
   >
     <img
       alt="mountains background"
-      class="e110hyro1 css-yfs9x8-Background"
-      src="./images/footer-image.jpg"
+      class="ehg56va1 css-yfs9x8-Background"
+      src="./images/footer-image.png"
     />
     <div
       class="container css-sx5xsl-CTA"
@@ -70,7 +70,7 @@ exports[`render as espected CTA 1`] = `
             href="tel:1(877)498-4344"
             style="text-decoration: none;"
           >
-            1 (877) 498-4344
+            +1 202 555 0164
           </a>
         </p>
       </div>
@@ -85,13 +85,13 @@ exports[`render as espected Features 1`] = `
     class="css-vurnku"
   >
     <div
-      class="css-1najfow"
+      class="container css-1nvme7y"
     >
       <div
         class="css-8npsg8"
       >
         <div
-          class="css-1998aui-Icon eayq4bs0"
+          class="css-37atqw-Icon e1exjhk90"
         >
           <svg
             class="css-vmdvmf"
@@ -152,20 +152,19 @@ exports[`render as espected Features 1`] = `
         <h4
           class="css-1yu3as5"
         >
-          QUICK APROVAL & COMPETITIVE RATES
+          Time Icon
         </h4>
         <div
           class="css-1tiirty-Features"
         >
-          Get pre-approved in just 2-4 hours.
-    Best available rates in the industry.
+          Praesent accumsan consectetur eros. Pellentesque non.
         </div>
       </div>
       <div
         class="css-8npsg8"
       >
         <div
-          class="css-1998aui-Icon eayq4bs0"
+          class="css-37atqw-Icon e1exjhk90"
         >
           <svg
             class="css-vmdvmf"
@@ -197,19 +196,19 @@ exports[`render as espected Features 1`] = `
         <h4
           class="css-1yu3as5"
         >
-          FLEXIBLE REPAYMENT PLANS
+          Money Icon
         </h4>
         <div
           class="css-1uujl1a-Features"
         >
-          Repayments designed appropriately to fit your business needs.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         </div>
       </div>
       <div
         class="css-8npsg8"
       >
         <div
-          class="css-1998aui-Icon eayq4bs0"
+          class="css-37atqw-Icon e1exjhk90"
         >
           <svg
             class="css-vmdvmf"
@@ -254,20 +253,19 @@ exports[`render as espected Features 1`] = `
         <h4
           class="css-1yu3as5"
         >
-          NO CREDIT SCORE REQUIRED
+          Credit Card Icon
         </h4>
         <div
           class="css-1qj35ak-Features"
         >
-          We do not rely on credit score. Instead, we utilize banking information to understand and analyze the
-    overall fluctuation of your business.
+          Pellentesque nec cursus metus. Nunc quis urna sapien
         </div>
       </div>
       <div
         class="css-8npsg8"
       >
         <div
-          class="css-1998aui-Icon eayq4bs0"
+          class="css-37atqw-Icon e1exjhk90"
         >
           <svg
             class="css-vmdvmf"
@@ -305,12 +303,12 @@ exports[`render as espected Features 1`] = `
         <h4
           class="css-1yu3as5"
         >
-          MINIMAL PAPEWORK
+          Document Icon
         </h4>
         <div
           class="css-1ehr10y-Features"
         >
-          Unlike a traditional bank loan, we do not require any complicated documents.
+          Morbi vestibulum aliquam blandit. Donec faucibus tellus quis erat.
         </div>
       </div>
     </div>
@@ -321,10 +319,10 @@ exports[`render as espected Features 1`] = `
 exports[`render as espected Header 1`] = `
 <div>
   <header
-    class="css-1ivoic6-Wrapper e16lzbl90"
+    class="css-1ivoic6-Wrapper e17ta0rq0"
   >
     <picture
-      class="css-1o9hww4-Background-Header e16lzbl91"
+      class="css-1o9hww4-Background-Header e17ta0rq1"
     >
       <source
         media="(min-width: 800px)"
@@ -346,38 +344,38 @@ exports[`render as espected Header 1`] = `
       <div
         class="css-10gcz7t"
       >
-        Funding Solutions for your business
+        Everything you need in one place
       </div>
       <h1
         class="css-zmrqg7"
       >
-        We'll Help Your Business 
+        Next-generation 
          
         <div
-          class="css-86bk71-Wrapper e1jkelvh0"
+          class="css-86bk71-Wrapper efl8sf10"
         >
           <span
             class="css-iifya3-FancyText"
           >
-            Succeed
+            Landing
           </span>
           <div
-            class="css-x0wys2-Animated-FancyText e1jkelvh1"
+            class="css-x0wys2-Animated-FancyText efl8sf11"
           >
-            Succeed
+            Landing
           </div>
           <div
-            class="css-x0wys2-Animated-FancyText e1jkelvh1"
+            class="css-x0wys2-Animated-FancyText efl8sf11"
           >
-            Grow
+            Blog
           </div>
         </div>
       </h1>
       <form
-        class="css-8i4y4z-Form e16lzbl92"
+        class="css-8i4y4z-Form e17ta0rq2"
       >
         <input
-          class="css-1lotepu-StyledInput euq90oh0"
+          class="css-1lotepu-StyledInput e1rkkvyd0"
           inputmode="numeric"
           name="amount"
           placeholder="Requested Amount"
@@ -390,8 +388,6 @@ exports[`render as espected Header 1`] = `
           <span
             class="hide-md css-6g5xt6"
           >
-             
-            Now
             <svg
               class="css-6832e"
               fill="currentColor"
@@ -585,30 +581,40 @@ exports[`render as espected IconTimer 1`] = `
 exports[`render as espected Steps 1`] = `
 <div>
   <section
-    class="css-146wbcb-Wrapper exlt3p60"
+    class="css-1fmlf4e"
   >
-    <div
-      class="container css-1pzxqr6-Steps"
-    >
-      <h4
-        class="css-1spt5qm"
-      >
-        How it works?
-      </h4>
-      <p
-        class="css-lgb6hf"
-      >
-        Funding has never been easier, all you have to do is follow these three steps.
-      </p>
-    </div>
     <div
       class="container css-n3b2sn"
     >
       <div
+        class="css-1qm1of7"
+      >
+        <div
+          class="css-w9kesc-Steps"
+        >
+          <h1
+            class="css-1gunff1"
+          >
+            Morbi suscipit varius enim, ac
+             
+            <span
+              class="css-1i78tal"
+            >
+              aliquet erat.
+            </span>
+          </h1>
+          <p
+            class="css-1pln5o7"
+          >
+            Nullam eu vulputate lorem. Quisque volutpat lacus sapien, placerat ullamcorper quam pretium quis. Fusce suscipit bibendum sollicitudin. Etiam interdum ligula lorem, sed euismod ex interdum eget.
+          </p>
+        </div>
+      </div>
+      <div
         class="css-kg0zaz"
       >
         <div
-          class="css-shgqeg-VideoThumb-Steps exlt3p61"
+          class="css-1ljoom7-VideoThumb-Steps e11hsem30"
         >
           <div
             style="width: 640px; height: 360px;"
@@ -616,12 +622,12 @@ exports[`render as espected Steps 1`] = `
             <video
               controls=""
               preload="auto"
-              src="./videos/description.mp4"
+              src="./videos/video.mp4"
               style="width: 100%; height: 100%;"
             />
           </div>
           <button
-            class="exlt3p62 css-hgfq9k-PlayButton"
+            class="e11hsem31 css-hgfq9k-PlayButton"
           >
             <svg
               fill="currentColor"
@@ -639,99 +645,6 @@ exports[`render as espected Steps 1`] = `
           </button>
         </div>
       </div>
-      <div
-        class="css-zy1hzm-Steps"
-      >
-        <div
-          class="css-1x795ig-Line-Steps exlt3p63"
-        />
-        <div
-          class="css-1rz7k8q-Steps"
-        >
-          <span
-            class="css-1qkclsg"
-          >
-            <div
-              class="css-t2adny"
-            >
-              1
-            </div>
-          </span>
-          <div
-            class="css-wnoyok"
-          >
-            <h1
-              class="css-o1639m"
-            >
-              Apply
-            </h1>
-            <p
-              class="css-eanlim"
-            >
-              Fill out an application today with your basic information. Once filled out, submit
-    along with your last 3 months of your business bank statements.
-            </p>
-          </div>
-        </div>
-        <div
-          class="css-nj1osv-Steps"
-        >
-          <span
-            class="css-1qkclsg"
-          >
-            <div
-              class="css-t2adny"
-            >
-              2
-            </div>
-          </span>
-          <div
-            class="css-wnoyok"
-          >
-            <h1
-              class="css-o1639m"
-            >
-              Approve
-            </h1>
-            <p
-              class="css-eanlim"
-            >
-              Our underwriting team will review your application and bank statements to develop a
-    solution specific to your business needs. They will then contact you and discuss your
-    offer. Repayments are flexible; there are no personal guarantees and minimal documents
-    required.
-            </p>
-          </div>
-        </div>
-        <div
-          class="css-1tiitih-Steps"
-        >
-          <span
-            class="css-1qkclsg"
-          >
-            <div
-              class="css-t2adny"
-            >
-              3
-            </div>
-          </span>
-          <div
-            class="css-wnoyok"
-          >
-            <h1
-              class="css-o1639m"
-            >
-              Get Funded
-            </h1>
-            <p
-              class="css-eanlim"
-            >
-              Once the contract is signed, you will receive your funds in your bank account the same
-    day.
-            </p>
-          </div>
-        </div>
-      </div>
     </div>
   </section>
 </div>
@@ -740,40 +653,40 @@ exports[`render as espected Steps 1`] = `
 exports[`render as espected Testimonials 1`] = `
 <div>
   <section
-    class="css-16knvf3-Testimonials"
+    class="css-1fmlf4e"
   >
     <div
-      class="container css-tdrm9e"
+      class="css-sd868u-Testimonials"
     >
       <h4
-        class="css-5euxzx"
+        class="css-12jo13f"
       >
-        WE’RE HERE TO
+        Donec dignissim 
          
         <span
           class="css-1i78tal"
         >
-          HELP!
+          rutrum diam
         </span>
       </h4>
       <p
         class="css-65hcn1"
       >
-        We have history with various businesses and the experience needed to make your business grow and succeed.
+        Vivamus faucibus neque at velit lobortis dapibus. Proin sit amet libero quis dolor maximus varius. Proin blandit convallis mi,.
       </p>
     </div>
     <div
-      class="container css-6wayjc"
+      class="css-13tbvei"
     >
       <div
-        class="css-14gtt7u"
+        class="css-emtes6-Testimonials"
       >
         <div
-          class="css-tq5hxx-Wrapper ekq4b2z0"
+          class="css-tq5hxx-Wrapper e1wyqj5v0"
         >
           <img
-            alt="Josephine"
-            class="e1q3hv6b0 css-1ulugdh-Thumbnail"
+            alt="Kashif Wheatley"
+            class="e11si4jp0 css-1ulugdh-Thumbnail"
             src="./images/josephine.jpg"
           />
           <div
@@ -782,7 +695,7 @@ exports[`render as espected Testimonials 1`] = `
             <h6
               class="css-1i0bpec"
             >
-              Josephine
+              Kashif Wheatley
             </h6>
             <span
               class="css-7a615i"
@@ -864,22 +777,21 @@ exports[`render as espected Testimonials 1`] = `
           >
             <em>
               “
-              GLD Funding came in handy when I desperately needed capital for my business expenses. The process was quick
-    and straightforward. You don't need good credit to be approved, which made everything much smoother.
+              Fusce justo lorem, finibus ut suscipit in, consectetur in diam. Vestibulum ante ipsum primis in faucibus orci.
               ”
             </em>
           </p>
         </div>
       </div>
       <div
-        class="css-14gtt7u"
+        class="css-451exu-Testimonials"
       >
         <div
-          class="css-tq5hxx-Wrapper ekq4b2z0"
+          class="css-tq5hxx-Wrapper e1wyqj5v0"
         >
           <img
-            alt="Anas Iqbual"
-            class="e1q3hv6b0 css-1ulugdh-Thumbnail"
+            alt="Aariz Montoya"
+            class="e11si4jp0 css-1ulugdh-Thumbnail"
             src="./images/anas.jpg"
           />
           <div
@@ -888,7 +800,7 @@ exports[`render as espected Testimonials 1`] = `
             <h6
               class="css-1i0bpec"
             >
-              Anas Iqbual
+              Aariz Montoya
             </h6>
             <span
               class="css-7a615i"
@@ -970,21 +882,21 @@ exports[`render as espected Testimonials 1`] = `
           >
             <em>
               “
-              I was glad that they were there to help when my business needed them. Overall, a pleasant experience.
+              Morbi at laoreet leo. Ut in pulvinar ex, vitae tempor nibh. Donec ullamcorper libero non lacus porttitor ultrices.
               ”
             </em>
           </p>
         </div>
       </div>
       <div
-        class="css-14gtt7u"
+        class="css-14p65gb-Testimonials"
       >
         <div
-          class="css-tq5hxx-Wrapper ekq4b2z0"
+          class="css-tq5hxx-Wrapper e1wyqj5v0"
         >
           <img
-            alt="Allina Joel"
-            class="e1q3hv6b0 css-1ulugdh-Thumbnail"
+            alt="Rueben Childs"
+            class="e11si4jp0 css-1ulugdh-Thumbnail"
             src="./images/allina.jpg"
           />
           <div
@@ -993,7 +905,7 @@ exports[`render as espected Testimonials 1`] = `
             <h6
               class="css-1i0bpec"
             >
-              Allina Joel
+              Rueben Childs
             </h6>
             <span
               class="css-7a615i"
@@ -1075,22 +987,21 @@ exports[`render as espected Testimonials 1`] = `
           >
             <em>
               “
-              The people at GLD Funding are really helpful and attentive. If you need help with your cash advance, they will
-    make sure to have all of your questions answered.
+              Nulla convallis fringilla placerat. Duis imperdiet efficitur efficitur. Duis vel dolor lacus.
               ”
             </em>
           </p>
         </div>
       </div>
       <div
-        class="css-14gtt7u"
+        class="css-1126efc-Testimonials"
       >
         <div
-          class="css-tq5hxx-Wrapper ekq4b2z0"
+          class="css-tq5hxx-Wrapper e1wyqj5v0"
         >
           <img
-            alt="Albert Chirls"
-            class="e1q3hv6b0 css-1ulugdh-Thumbnail"
+            alt="Lukasz Knapp"
+            class="e11si4jp0 css-1ulugdh-Thumbnail"
             src="./images/albert.jpg"
           />
           <div
@@ -1099,7 +1010,7 @@ exports[`render as espected Testimonials 1`] = `
             <h6
               class="css-1i0bpec"
             >
-              Albert Chirls
+              Lukasz Knapp
             </h6>
             <span
               class="css-7a615i"
@@ -1181,8 +1092,7 @@ exports[`render as espected Testimonials 1`] = `
           >
             <em>
               “
-              Very easy and fair. I've been working with GLD for the past three years now, and I do not have any complaints. I
-    must say they are very cooperative and understanding of your business needs.
+              Proin blandit convallis mi, sit amet efficitur nisl sagittis id. Proin maximus sed nisl vitae consequat.
               ”
             </em>
           </p>

@@ -7,19 +7,16 @@ import { phoneMask } from '../constants';
 
 const inputs = [
   {
-    label: 'Name*',
-    placeholder: 'Eg. John Smith ',
+    label: 'Name',
     name: 'name',
   },
   {
-    label: 'Email*',
-    placeholder: 'Eg. joahsmith@gmail.com',
+    label: 'Email',
     name: 'email',
     type: 'email',
   },
   {
-    label: 'Mobile No.*',
-    placeholder: '(123) 456-7890',
+    label: 'Mobile No.',
     name: 'phone',
     tag: 'masked',
     mask: phoneMask,
@@ -82,8 +79,8 @@ export const Contact = () => {
                 <Input
                   tag="textarea"
                   name="message"
-                  label="Message*"
-                  placeholder="Eg. I would like to know more about your services..."
+                  label="Message"
+                  placeholder="I would like to know more about your services..."
                   css={{ flexGrow: 1 }}
                   {...fieldProps}
                 />

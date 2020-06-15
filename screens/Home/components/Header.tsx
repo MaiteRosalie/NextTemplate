@@ -117,11 +117,11 @@ export const Header = withTheme(({ theme }: { theme: themeProptypes }) => {
         }}
       >
         <Text color="white300" fontSize={[3, 6]} mb={3} textAlign="center">
-          Funding Solutions for your business
+          Everything you need in one place
         </Text>
         <Text as="h1" color="white" fontSize={[5, 6]} fontFamily="heading" textAlign="center">
-          We&apos;ll Help Your Business {` `}
-          <FancyText words={['Succeed', 'Grow']} animate={animated} />
+          Next-generation {` `}
+          <FancyText words={['Landing', 'Blog']} animate={animated} />
         </Text>
         <Form as="form" mt={[3, 8]} fontSize={[2, 3]} onSubmit={handleSubmit}>
           <Input
@@ -136,7 +136,6 @@ export const Header = withTheme(({ theme }: { theme: themeProptypes }) => {
           <Button>
             Apply
             <Flex as="span" className="hide-md" alignItems="center" ml="0.2em">
-              {` `}Now
               <Box as={Arrow} ml={1} size={30} />
             </Flex>
           </Button>
