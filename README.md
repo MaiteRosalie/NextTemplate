@@ -67,7 +67,7 @@ $ npm run test:watch
   - about
   - apply
   - contact
-  - mca
+  - how
   - app
   - document
 - theme/
@@ -86,6 +86,6 @@ $ npm run test:watch
   - About
   - Apply
   - contact
-  - MCA
+  - How
 - utils/
 - config files.

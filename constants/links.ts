@@ -7,7 +7,7 @@ export const aboutLink = {
   name: 'About us',
 };
 
-export const mcaLink = {
+export const howLink = {
   href: '/how',
   name: 'How it works',
 };
@@ -32,4 +32,4 @@ export const callLink = {
   name: 'Call Now +1 202 555 0164',
 };
 
-export const mainLinks = [homeLink, aboutLink, mcaLink, applyLink, contactLink];
+export const mainLinks = [homeLink, aboutLink, howLink, applyLink, contactLink];

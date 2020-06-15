@@ -47,7 +47,7 @@ export const How = () => {
 
   return (
     <Layout>
-      <PageTitle src="mca" title="How it works" />
+      <PageTitle src="how" title="How it works" />
       <Box
         m="auto"
         className="container"
