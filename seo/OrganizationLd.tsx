@@ -7,8 +7,8 @@ export type OrganizationLdProps = {
 };
 
 export const OrganizationLd = ({
-  url = 'https://gld-funding.herokuapp.com/',
-  logo = 'https://gld-funding.herokuapp.com/public/images/favicon.png',
+  url = 'https://next-template.herokuapp.com/',
+  logo = 'https://next-template.herokuapp.com/public/images/favicon.png',
 }: OrganizationLdProps) => {
   const jsonld = `{
     "@context": "http://schema.org/",

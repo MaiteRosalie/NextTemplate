@@ -3,8 +3,8 @@ const SEO = {
   description: 'desc',
   openGraph: {
     type: 'page',
-    url: 'https://gld-funding.herokuapp.com/',
-    image: 'https://gld-funding.herokuapp.com/public/images/favicon.png',
+    url: 'https://next-template.herokuapp.com/',
+    image: 'https://next-template.herokuapp.com/public/images/favicon.png',
     title: 'Next template',
     description: 'desc',
   },

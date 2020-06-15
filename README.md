@@ -1,6 +1,6 @@
 ### Overview
 
-This project was created with the goal of building a simple, highly optimized web template which could be used as a base for many different ideas. It's currently running here https://gld-funding.herokuapp.com/.
+This project was created with the goal of building a simple, highly optimized web template which could be used as a base for many different ideas. It's currently running here https://next-template.herokuapp.com/.
 
 ### Tech Stack
 
