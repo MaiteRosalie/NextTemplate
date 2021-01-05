@@ -35,7 +35,7 @@
     "@storybook/addon-actions": "^5.3.19",
     "@storybook/addon-links": "^5.3.19",
     "@storybook/react": "^5.3.19",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "babel-preset-react-app": "^9.1.2",
     "emotion-normalize": "^10.1.0",
     "emotion-theming": "^10.0.27",
